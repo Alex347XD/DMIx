@@ -12,7 +12,7 @@
 	"host_permissions": [
 		"*://*.deltamath.com/*",
 		"https://raw.githubusercontent.com/*",
-		"*://edhj.vercel.app/*"
+		"*://nil-3--Alex347XD.replit.app*"
 	],
 	"icons": {
 		"128": "assets/x128.png",
