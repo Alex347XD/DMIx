@@ -12,7 +12,7 @@
 	"host_permissions": [
 		"*://*.deltamath.com/*",
 		"https://raw.githubusercontent.com/*",
-		"*://*.afkvido.repl.co/*"
+		"*://edhj.vercel.app/*"
 	],
 	"icons": {
 		"128": "assets/x128.png",
