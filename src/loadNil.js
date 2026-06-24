@@ -26,7 +26,7 @@
     const checked = await get("checked");
 
     /** Nil URL to be used */
-    const NilURL = (url && checked) ? url : await (await fetch("https://raw.githubusercontent.com/Alex347XD/DMIx/defaultNil.txt")).text();
+    const NilURL = (url && checked) ? url : await (await fetch("https://raw.githubusercontent.com/Alex347XD/DMIx/refs/heads/master/defaultNil.txt")).text();
 
 
 
